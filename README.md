@@ -5,7 +5,7 @@
 🌱 I’m currently learning **Salesforce, React, Node.js, MongoDB**  
 👨‍💻 Intern at **PwC Launchpad | Web Developer at Prodigy InfoTech**  
 💡 Passionate about **Web Development, AI, and Cloud Technologies**  
-📫 How to reach me: [yamjalamanisandeep@gmail.com](mailto:yamjalamanisandeep@gmail.com)  
+
 
 ## 🚀 I Code With  
 
@@ -31,4 +31,6 @@
   </a>
 </p>
 
+
+📫 How to reach me: 
 📧 **Email:** yamjalamanisandeep@gmail.com  
