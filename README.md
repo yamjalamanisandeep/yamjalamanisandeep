@@ -30,7 +30,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-
-
-📫 How to reach me: 
 📧 **Email:** yamjalamanisandeep@gmail.com  
